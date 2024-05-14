@@ -5,9 +5,9 @@
  
  In order to run this code you need LabVIEW 2023 or compatible. 
 
- To use just open the project file "FolloWin.lvproj" in LabVIEW enviroment then open and run the top level VI "FolloWinDemo.vi"
+ To use just open the project file "FolloWin.lvproj" in the LabVIEW enviroment, then, open and run the top level VI "FolloWinDemo.vi"
  
- I hope you will find this Demo and the object useful. 
+ I hope you will find this Demo and the FolloWin object useful. 
  
 Cheers, Yoni 
    YonCoh@gmail.com
