@@ -3,7 +3,7 @@
  It demonstrates a GUI object that follows the mouse around and shows information. 
  In order to run this code you need LabVIEW 2023 or compatible. 
 
-to open the project just load the project file  into the LabVIEW 
+To open the project just load the project file FolloWin.lvproj into the LabVIEW then open and run the top level VI 
  
  cheers, Yoni 
  YonCoh@gmail.com
